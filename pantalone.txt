@@ -1,0 +1,8 @@
+levis
+32
+plava
+2000.0
+tommy_jeans
+34
+crna
+6000.0
